@@ -1,0 +1,63 @@
+.heading{
+text-align: center;
+background: #fff;
+color: black;
+border: 1px solid black;
+
+}
+.portNav{
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+.portNav li{
+  display: block;
+}
+.portNav li a{
+  display: block;
+  padding: 5px;
+  background: #999;
+  color: #fff;
+  margin-bottom: 5px;
+  text-align: center;
+}
+.mainDiv{
+  margin-left: 30px;
+}
+.thumbnail{
+  height: 160px;
+}
+.proImg{
+  display: block;
+  margin: auto;
+  padding: 10px;
+  background: #ddd;
+  height:500px;
+}
+.upNew{
+  width: 50%;
+  float: left;
+  overflow: hidden;
+}
+.prevImg{
+  width: 50%;
+  float: right;
+  overflow: hidden;
+}
+.prevImg img{
+  width: 180px;
+  height: 100px;
+}
+.callout{
+  text-align: center;
+}
+footer{
+  background: #D7ECFA;
+  height: 100px;
+  border: 1px solid #A4B4BE;
+}
+.footerLine{
+  text-align: center;
+    padding-top: 32px;
+    font-size:25px;
+}
